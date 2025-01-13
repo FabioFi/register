@@ -1,0 +1,11 @@
+{
+  "description": "home/test",
+  "repo": "https://github.com/fabiofi/test.github.io",
+  "owner": {
+    "username": "test",
+    "email": "test@gmail.com"
+  },
+  "record": {
+    "CNAME": "test.github.io"
+  }
+}
